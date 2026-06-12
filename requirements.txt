@@ -1,0 +1,30 @@
+# Data Analysis
+pandas==2.3.1
+numpy==2.3.1
+
+# Visualization
+matplotlib==3.10.5
+seaborn==0.13.2
+plotly==6.2.0
+
+# Database
+sqlalchemy==2.0.42
+pymysql==1.1.1
+mysql-connector-python==9.4.0
+
+# Notebook
+jupyter==1.1.1
+notebook==7.4.5
+
+# Excel Support
+openpyxl==3.1.5
+
+# API
+fastapi==0.116.1
+uvicorn==0.35.0
+
+# Machine Learning
+scikit-learn==1.7.1
+
+# Environment Variables
+python-dotenv==1.1.1
